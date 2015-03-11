@@ -1,0 +1,29 @@
+body {
+  padding-top: 50px;
+}
+.home-image {
+    bottom: 20px;
+    position: absolute;
+    right: 20px;
+}
+
+.navbar {
+    background-color : white;
+    border : 0px;
+    font-weight: bold;
+}
+
+.navbar-nav > li>  a:hover{
+    color: #9d9d9d !important;
+}
+
+.navbar-nav > .active > a {
+    background-color : white !important;
+    color : #CC9900 !important;
+}
+
+.content {
+    margin: auto;
+    width: 845 px;
+    padding-top : 100px;
+}
