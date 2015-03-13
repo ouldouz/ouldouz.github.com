@@ -99,6 +99,13 @@ a.glow:hover, a.glow:focus
 .carousel-control {
 	color: #cc9900;
 }
+.glyphicon-chevron-left {
+    top:40% !important;
+}
+.glyphicon-chevron-right {
+    top:40% !important;
+}
+
 .carousel-control:focus, .carousel-control:hover {
     color: #cc9900;
 }
