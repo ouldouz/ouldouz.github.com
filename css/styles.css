@@ -138,3 +138,10 @@ a.glow:hover, a.glow:focus
     float: right;
     font-size: 10px;
 }
+.contact {
+    padding: 50px;
+    margin-top: 50px;
+    background-color: rgb(200,200,200);
+    text-align: center;
+    border-radius: 5px;
+}
