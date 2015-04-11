@@ -20,7 +20,7 @@ body {
 
 .navbar-nav > .active > a {
     background-color : white !important;
-    color : #CC9900 !important;
+    color : #E69500 !important;
 }
 #content {
     margin: 20px auto;
@@ -59,7 +59,7 @@ a.glow, a.glow:hover, a.glow:focus
 }
 a.glow:hover, a.glow:focus
 {
-	color: #CC9900;
+	color: #E69500;
 	text-shadow:   1px 3px 4px #CC9900, -1px 1px 4px #ffc;
 }
 .navbar .nav,
@@ -97,7 +97,7 @@ a.glow:hover, a.glow:focus
 }
 
 .carousel-control {
-	color: #cc9900;
+	color: #E69500;
 }
 .glyphicon-chevron-left {
     top:40% !important;
@@ -107,7 +107,7 @@ a.glow:hover, a.glow:focus
 }
 
 .carousel-control:focus, .carousel-control:hover {
-    color: #cc9900;
+    color: #E69500;
 }
 .carousel-control.right {
 	background-image : none;
@@ -139,9 +139,8 @@ a.glow:hover, a.glow:focus
     font-size: 10px;
 }
 .contact {
-    padding: 50px;
-    margin-top: 50px;
-    background-color: rgb(200,200,200);
-    text-align: center;
-    border-radius: 5px;
+   padding: 50px;
+  text-align: center;
+  background-image: url('../images/contact.png');
+  height: 250px;
 }
